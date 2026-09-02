@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    No policies are requested. Being an active admin is by itself enough to make
+    Android refuse a straight uninstall, and asking for nothing else keeps the
+    consent screen honest. Declaring force-lock was tried and changes nothing on
+    ColorOS, which refuses the consent screen either way.
+-->
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-policies />
+</device-admin>

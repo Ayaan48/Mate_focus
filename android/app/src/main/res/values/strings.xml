@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mate</string>
+    <string name="accessibility_label">Mate focus guard</string>
+    <string name="accessibility_description">Mate watches which app is in front so it can hold you to the limits you set and keep adult sites shut. Nothing you do is sent anywhere; everything stays on this phone.</string>
+    <string name="device_admin_label">Mate protection</string>
+    <string name="device_admin_description">Keeps Mate from being removed on impulse. Mate requests no other administrator powers: it cannot erase your phone, lock the screen, change your password, or read your data. Switch this off first if you want to remove Mate.</string>
+</resources>
